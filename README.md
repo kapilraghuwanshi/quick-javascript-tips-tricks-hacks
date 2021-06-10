@@ -1,4 +1,4 @@
-# Quick Javascript - Tips Tricks Hacks
+# Quick Javascript - Tips, Tricks & Hacks
 Top JavaScript tips, tricks and hacks to increase your Speed and Efficiency at work, competitions and hackthons.
 
 #### These approaches will definitely help you in:
@@ -7,3 +7,8 @@ Top JavaScript tips, tricks and hacks to increase your Speed and Efficiency at w
 * Coding Competitions,
 * Hackathons or
 * Other time bound tasks.⏱
+
+
+### Content
+
+1. Create and Initialize Arrays
