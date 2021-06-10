@@ -1,4 +1,4 @@
-# quick-javascript-tips-tricks-hacks
+# Quick Javascript - Tips Tricks Hacks
 Top JavaScript tips, tricks and hacks to increase your Speed and Efficiency at work, competitions and hackthons.
 
 #### These approaches will definitely help you in:
