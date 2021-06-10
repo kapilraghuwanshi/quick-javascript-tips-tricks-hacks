@@ -11,4 +11,4 @@ Top JavaScript tips, tricks and hacks to increase your Speed and Efficiency at w
 
 ### Content
 
-1. Create and Initialize Arrays
+1. [Create and Initialize Arrays](https://github.com/kapilraghuwanshi/quick-javascript-tips-tricks-hacks/blob/main/Create%20and%20Initialize%20Arrays)
