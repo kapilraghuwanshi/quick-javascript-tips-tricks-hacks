@@ -1,0 +1,36 @@
+Problem: Create and Initialize Arrays
+
+
+Approach #1: Using Array constructor and fill() method
+
+const array = Array(5).fill(''); 
+// Output 
+(5) ["", "", "", "", ""]
+
+
+Approach #2:
+
+
+Approach #3:
+
+
+
+Problem: Create and Initialize 2 Dimensional Arrays
+
+
+Approach #1: Using Array constructor and fill() method
+
+// Output
+(5) [Array(5), Array(5), Array(5), Array(5), Array(5)]
+0: (5) [0, 0, 0, 0, 0]
+1: (5) [0, 0, 0, 0, 0]
+2: (5) [0, 0, 0, 0, 0]
+3: (5) [0, 0, 0, 0, 0]
+4: (5) [0, 0, 0, 0, 0]
+length: 5
+
+
+Approach #2:
+
+
+Approach #3:
